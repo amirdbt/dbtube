@@ -7,7 +7,13 @@ import './App.css';
 import youtube from './api/youtube'
 
 class App extends React.Component {
- 
+ constructor(){
+   super()
+   this.state={
+     videos: [],
+     selectedVideo: null
+   }
+ }
   
   handleSubmit = async (searchTerm) =>{
     const response = await youtube.get('search', {
@@ -17,8 +23,14 @@ class App extends React.Component {
               key: 'AIzaSyAWOxgF6Y-z2jJibAE4KItBYO6NOJLTN6g',
               q: searchTerm
   }})
-  console.log(response.data.items)
 
+  this.setState({
+    videos: response.data.items,
+    selectedVideo: response.data.items[0]
+  })
+  }
+  onSelectVideo=()=>{
+    
   }
 
   render(){
@@ -31,11 +43,11 @@ class App extends React.Component {
             </Grid>
 
             <Grid item xs={8}>
-             <VideoDetail />
+             <VideoDetail video={this.state.selectedVideo} />
             </Grid>
 
             <Grid item xs={4}>
-            <VideoList />
+            <VideoList videos={this.state.videos} onSelectVideo={this.onSelectVideo}/>
             </Grid>
 
           </Grid>
