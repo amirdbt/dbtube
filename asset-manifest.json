@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amirdbt/dbtube/static/css/main.d2cf9fa0.chunk.css",
+    "main.js": "/amirdbt/dbtube/static/js/main.ac239c1e.chunk.js",
+    "main.js.map": "/amirdbt/dbtube/static/js/main.ac239c1e.chunk.js.map",
+    "runtime~main.js": "/amirdbt/dbtube/static/js/runtime~main.28484da9.js",
+    "runtime~main.js.map": "/amirdbt/dbtube/static/js/runtime~main.28484da9.js.map",
+    "static/js/2.4a78d697.chunk.js": "/amirdbt/dbtube/static/js/2.4a78d697.chunk.js",
+    "static/js/2.4a78d697.chunk.js.map": "/amirdbt/dbtube/static/js/2.4a78d697.chunk.js.map",
+    "index.html": "/amirdbt/dbtube/index.html",
+    "precache-manifest.f25a0264f6421bd1d729d18fdce707d2.js": "/amirdbt/dbtube/precache-manifest.f25a0264f6421bd1d729d18fdce707d2.js",
+    "service-worker.js": "/amirdbt/dbtube/service-worker.js",
+    "static/css/main.d2cf9fa0.chunk.css.map": "/amirdbt/dbtube/static/css/main.d2cf9fa0.chunk.css.map"
+  }
+}
