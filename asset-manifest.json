@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amirdbt/dbtube/static/css/main.d2cf9fa0.chunk.css",
-    "main.js": "/amirdbt/dbtube/static/js/main.ac239c1e.chunk.js",
-    "main.js.map": "/amirdbt/dbtube/static/js/main.ac239c1e.chunk.js.map",
-    "runtime~main.js": "/amirdbt/dbtube/static/js/runtime~main.28484da9.js",
-    "runtime~main.js.map": "/amirdbt/dbtube/static/js/runtime~main.28484da9.js.map",
-    "static/js/2.4a78d697.chunk.js": "/amirdbt/dbtube/static/js/2.4a78d697.chunk.js",
-    "static/js/2.4a78d697.chunk.js.map": "/amirdbt/dbtube/static/js/2.4a78d697.chunk.js.map",
-    "index.html": "/amirdbt/dbtube/index.html",
-    "precache-manifest.f25a0264f6421bd1d729d18fdce707d2.js": "/amirdbt/dbtube/precache-manifest.f25a0264f6421bd1d729d18fdce707d2.js",
-    "service-worker.js": "/amirdbt/dbtube/service-worker.js",
-    "static/css/main.d2cf9fa0.chunk.css.map": "/amirdbt/dbtube/static/css/main.d2cf9fa0.chunk.css.map"
+    "main.css": "/dbtube/static/css/main.d2cf9fa0.chunk.css",
+    "main.js": "/dbtube/static/js/main.ac239c1e.chunk.js",
+    "main.js.map": "/dbtube/static/js/main.ac239c1e.chunk.js.map",
+    "runtime~main.js": "/dbtube/static/js/runtime~main.c0a7834c.js",
+    "runtime~main.js.map": "/dbtube/static/js/runtime~main.c0a7834c.js.map",
+    "static/js/2.4a78d697.chunk.js": "/dbtube/static/js/2.4a78d697.chunk.js",
+    "static/js/2.4a78d697.chunk.js.map": "/dbtube/static/js/2.4a78d697.chunk.js.map",
+    "index.html": "/dbtube/index.html",
+    "precache-manifest.5ed375628d131a17fc7a82ff42be5a2e.js": "/dbtube/precache-manifest.5ed375628d131a17fc7a82ff42be5a2e.js",
+    "service-worker.js": "/dbtube/service-worker.js",
+    "static/css/main.d2cf9fa0.chunk.css.map": "/dbtube/static/css/main.d2cf9fa0.chunk.css.map"
   }
 }
